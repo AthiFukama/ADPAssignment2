@@ -1,5 +1,9 @@
 package za.ac.cput.ADPAssignment2;
-
+/*
+ *@Author Athi Fukama 218328591
+ * Due date: 16 May 2021
+ * Assignment 2
+ */
 import java.util.Objects;
 
 public class Employee {
